@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Simple New Tab",
+  "description": "I got tired of seeing the 'most visited' on the new tab page and the previous extension i was using broke, so i made this one. It replaces the new tab page with a very simple page that leaves the omnibox open for searching.",
+  "version":"0.0.1",
+
+  "chrome_url_overrides": {
+    "newtab": "simpleNewTab.html"
+  }
+}
