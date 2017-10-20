@@ -7,5 +7,8 @@ You can download this extension from the [Releases](https://github.com/evan3334/
 ## Installation
 Simply drag the extension onto Chrome. You may need to enable Developer Mode in the Extensions page in Chrome if it says you can't install extensions from an unknown source.
 
+## Web Store
+You can also get this extension from the Chrome Web Store [here.](https://chrome.google.com/webstore/detail/simple-new-tab/ancmlkkfdmldeffbbecgppiglnijfjoa)
+
 ## Contributing
 I mostly won't accept contributions because I made this as a simple tool to fix a problem I had. If your change fixes a bug that exists in the original extension, then I'll accept it as long as it doesn't break anything.
